@@ -23,7 +23,7 @@ Ao reconhecer esses desafios, a Xangu Transportes compreende a importância estr
 
 
 
-[Diagrama do banco de dados da empresa Xangu Transportes]([URL](https://dbdiagram.io/d/Diagrama-Xangu-Transportes-65690c553be149578715fde4))
+[Diagrama do banco de dados da empresa Xangu Transportes]([(https://dbdiagram.io/d/Diagrama-Xangu-Transportes-65690c553be149578715fde4)])
 
 
 # Modelo MER DESCRITIVO:
