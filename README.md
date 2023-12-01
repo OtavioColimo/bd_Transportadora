@@ -19,7 +19,7 @@
 Ao reconhecer esses desafios, a Xangu Transportes compreende a importância estratégica de investir em um sistema de gestão logística especializado para suas operações. A implementação desse sistema não apenas aprimorará a eficiência operacional, mas também consolidará a reputação da empresa como uma transportadora confiável e eficiente na região. 
 
 
-#Modelo MER DESCRITIVO:
+# Modelo MER DESCRITIVO:
 
 
 ## Entidades: 
@@ -54,7 +54,7 @@ Atributos: ID_Compliance (Chave Primária), Tipo de Compliance, Descrição, Sta
 
  
 
-#Relacionamentos: 
+# Relacionamentos: 
 
 **Veículo-Rota:** 
 
