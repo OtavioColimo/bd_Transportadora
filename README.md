@@ -1,7 +1,9 @@
 # Banco de Dados Transportadora Xangu Transportes
 ## Este repositório é destinado ao banco de dados para transportadora rodoviária com foco em cargas fechadas
 
+
 ### A "Xangu Transportes" é uma renomada empresa especializada exclusivamente no transporte rodoviário de cargas dedicadas para seus clientes dentro da região Sudeste do Brasil. Com uma frota diversificada de caminhões, a empresa enfrenta desafios operacionais específicos, destacando a necessidade de um sistema de gestão que atenda às demandas dessa operação regional. 
+
 
 ## Os principais desafios enfrentados pela Xangu Transportes incluem: 
 
@@ -17,6 +19,11 @@
 
 
 Ao reconhecer esses desafios, a Xangu Transportes compreende a importância estratégica de investir em um sistema de gestão logística especializado para suas operações. A implementação desse sistema não apenas aprimorará a eficiência operacional, mas também consolidará a reputação da empresa como uma transportadora confiável e eficiente na região. 
+
+
+
+
+[#Diagrama do banco de dados da empresa Xangu Transportes]([URL](https://dbdiagram.io/d/Diagrama-Xangu-Transportes-65690c553be149578715fde4))
 
 
 # Modelo MER DESCRITIVO:
